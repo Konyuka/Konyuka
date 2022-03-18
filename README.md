@@ -79,9 +79,7 @@ A sample of my recent articles:
 <a href="https://github.com/Konyuka/Konyuka">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Konyuka&theme=vue" alt="Saiba's GitHub Stats" />
 </a>
-<a href="https://github.com/Konyuka/Konyuka">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Konyuka&theme=minimal" alt="Saiba's GitHub Stats" />
-</a>
+
 <a href="https://github.com/Konyuka/Konyuka">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konyuka" alt="Saiba's GitHub Stats" />
 </a>
