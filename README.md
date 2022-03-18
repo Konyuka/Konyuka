@@ -2,9 +2,9 @@
 
 [![Header](https://raw.githubusercontent.com/Konyuka/Konyuka/main/banner.jpg "Header")](https://talkduka.co.ke/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Jambo, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Michael Saiba and I'm a software developer/DevOps engineer. I'm from Kenya, living in Nairobi and currently. You can find me on [Email](mailto:admin@cloudhadoop.com), or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 
@@ -24,7 +24,7 @@ My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from S
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+Apart from coding, I also maintain a telecommunications business - you can find my products on my website at [talkduka.co.ke](https://talkduka.co.ke/).
 
 A sample of my recent articles:
 
@@ -68,9 +68,8 @@ A sample of my recent articles:
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[2]: https://github.com/Konyuka
+[3]: https://www.linkedin.com/in/michael-saiba-305a03b0/
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
