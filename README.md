@@ -4,7 +4,7 @@
 
 # Jambo, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Michael Saiba and I'm a software developer/DevOps engineer. I'm from Kenya, living in Nairobi and currently. You can find me on [Email](mailto:michaelsaiba84@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/michael-saiba-305a03b0/)
+My name is Michael Saiba and I'm a Computer Science Graduate. Currently am working as a Software Developer and Telecommunication Expert. I'm from Kenya, living in Nairobi and currently. You can find me on [Email](mailto:michaelsaiba84@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/michael-saiba-305a03b0/)
 
 ## 🔧 Technologies & Tools
 
