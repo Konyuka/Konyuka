@@ -54,7 +54,7 @@ My name is Michael Saiba and I'm a Computer Science Graduate. Currently am worki
 
 
 
-## &#x270d; Blog & Writing
+## &#x270d; Business Projects
 
 Apart from coding, I also maintain a telecommunications business - you can find my products on my website at [talkduka.co.ke](https://talkduka.co.ke/).
 
