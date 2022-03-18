@@ -58,16 +58,6 @@ My name is Michael Saiba and I'm a Computer Science Graduate. Currently am worki
 
 Apart from coding, I also maintain a telecommunications business - you can find my products on my website at [talkduka.co.ke](https://talkduka.co.ke/).
 
-A sample of my recent articles:
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Optimizing Memory Usage in Python Applications](https://bit.ly/3M30D82)
-- [Upcoming Python Features Brought to You by Python Enhancement Proposals](https://bit.ly/3oMJ6qR)
-- [Creating Beautiful Tracebacks with Python&#39;s Exception Hooks](https://bit.ly/3IRD7IK)
-- [Building GitHub Apps with Golang](https://bit.ly/3A3B69t)
-<!-- BLOG-POST-LIST:END -->
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Konyuka/Konyuka">
