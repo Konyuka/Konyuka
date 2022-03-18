@@ -9,7 +9,6 @@ My name is Michael Saiba and I'm a Computer Science Graduate. Currently am worki
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -75,7 +74,13 @@ A sample of my recent articles:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konyuka&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/Konyuka/Konyuka">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Konyuka&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Konyuka&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Saiba's GitHub Stats" />
+</a>
+<a href="https://github.com/Konyuka/Konyuka">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue" alt="Saiba's GitHub Stats" />
+</a>
+<a href="https://github.com/Konyuka/Konyuka">
+  <img align="center" src="" alt="Saiba's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Konyuka/SHOPNOW">
