@@ -4,7 +4,7 @@
 
 # Jambo, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Am Michael Saiba, Computer Science Graduate. Currently working as a Software Developer and Telecomms Expert. I'm from Kenya, living in Nairobi. Contact me on [Primary Email](mailto:michaelsaiba84@gmail.com) or [Business Email](mailto:saiba@talkduka.co.ke) or [LinkedIn](https://www.linkedin.com/in/michael-saiba-305a03b0/)
+I am Michael Saiba, Computer Science Graduate. Currently working as a Software Developer and Telecomms Expert. I'm from Kenya, living in Nairobi. Contact me on [Primary Email](mailto:michaelsaiba84@gmail.com) or [Business Email](mailto:saiba@talkduka.co.ke) or [LinkedIn](https://www.linkedin.com/in/michael-saiba-305a03b0/)
 
 ## 🔧 Technologies & Tools
 
