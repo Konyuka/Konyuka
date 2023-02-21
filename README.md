@@ -51,7 +51,7 @@ I am Michael Saiba, Computer Science Graduate. Currently working as a Software D
 
 ## &#x270d; Business Projects
 
-Tendererprenuership [biddersportal.com](https://www.biddersportal.com/).
+Tenderprenuership [biddersportal.com](https://www.biddersportal.com/).
 
 ## &#x1f4c8; GitHub Stats
 
