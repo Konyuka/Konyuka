@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/Anmol-Baranwal">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=16a34a&width=440&height=45&lines=Full-stack+Web+Developer;Experienced+UI+Designer;Expert+Cloud+Engineer;Lets+Build+Something+Creative" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=22d3ee&width=440&height=45&lines=Full-stack+Web+Developer;Experienced+UI+Designer;Expert+Cloud+Engineer;Lets+Build+Something+Creative" /></a>
 </p>
 
 [![Header](https://raw.githubusercontent.com/Konyuka/Konyuka/main/banner.jpg "Header")](https://talkduka.co.ke/)
@@ -55,6 +55,10 @@ I am Michael Saiba, Computer Science Graduate. Currently working as a Software D
 
 
 ## 📊 GitHub Statistics
+<div align="center">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
+</div>
+<br>
 
 <center>
   <table>
