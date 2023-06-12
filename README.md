@@ -9,15 +9,6 @@ I am Michael Saiba, Computer Science Graduate. Currently working as a Software D
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Ian Macharia on LinkedIn" title="Follow Ian Macharia on LinkedIn"/>](https://linkedin.com/in/michaelsaiba/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" height="40em" align="center" alt="Open WhatsApp Chat" title="Open WhatsApp Chat"/>](https://wa.me/254716202298)
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Ian Macharia on LinkedIn" title="Follow Ian Macharia on LinkedIn"/>](https://linkedin.com/in/ian-macharia-karimi/)
-
-
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" height="40em" align="center" alt="Open WhatsApp Chat" title="Open WhatsApp Chat"/>](https://wa.me/254798431498)
-
-
-[<img src="https://portfolio-karianmash.vercel.app/assets/img/favicon.png" height="40em" align="center" alt="Visit my website" title="Visit my website"/>](https://portfolio-karianmash.vercel.app/)
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
