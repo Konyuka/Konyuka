@@ -65,8 +65,8 @@ I am Michael Saiba, Computer Science Graduate. Currently working as a Software D
     </thead>
     <tbody>
     <tr>
-        <td valign="top"><img width="800px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Konyuka&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></td>
-        <td valign="top"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=Konyuka&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&custom_title=My%20Github%20Stats" /></td>
+        <td valign="top"><img width="600px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Konyuka&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></td>
+        <td valign="top"><img width="600px" src="https://github-readme-stats.vercel.app/api?username=Konyuka&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&custom_title=My%20Github%20Stats" /></td>
 
 
 
