@@ -70,7 +70,7 @@ I am Michael Saiba, Computer Science Graduate. Currently working as a Software D
 
 
 
-![Snake animation Contribution Graph](https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/output/github-contribution-grid-snake.svg)
+![Snake animation Contribution Graph](https://github.com/Konyuka/Konyuka/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />        
 
@@ -94,8 +94,6 @@ I am Michael Saiba, Computer Science Graduate. Currently working as a Software D
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
