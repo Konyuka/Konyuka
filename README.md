@@ -8,7 +8,6 @@
 [![Header](https://raw.githubusercontent.com/Konyuka/Konyuka/main/banner.jpg "Header")](https://talkduka.co.ke/)
 
 # Jambo, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 I am Michael Saiba, Computer Science Graduate. Currently working as a Software Developer and Telecomms Expert. I'm from Kenya, living in Nairobi. 
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Ian Macharia on LinkedIn" title="Follow Ian Macharia on LinkedIn"/>](https://linkedin.com/in/michaelsaiba/)
@@ -54,8 +53,7 @@ I am Michael Saiba, Computer Science Graduate. Currently working as a Software D
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ## 📊 GitHub Statistics
 <center>
   <table>
