@@ -70,6 +70,9 @@ I am Michael Saiba, Computer Science Graduate. Currently working as a Software D
 
 
 
+![Snake animation Contribution Graph](https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />        
 
 <!-- links to social media icons -->
 
