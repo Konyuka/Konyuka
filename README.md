@@ -4,7 +4,18 @@
 
 # Jambo, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am Michael Saiba, Computer Science Graduate. Currently working as a Software Developer and Telecomms Expert. I'm from Kenya, living in Nairobi. Contact me on [Primary Email](mailto:michaelsaiba84@gmail.com) or [Business Email](mailto:saiba@talkduka.co.ke) or [LinkedIn](https://www.linkedin.com/in/michael-saiba-305a03b0/)
+I am Michael Saiba, Computer Science Graduate. Currently working as a Software Developer and Telecomms Expert. I'm from Kenya, living in Nairobi. 
+# ✉️ Reach Me At:
+
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Ian Macharia on LinkedIn" title="Follow Ian Macharia on LinkedIn"/>](https://linkedin.com/in/ian-macharia-karimi/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Ian Macharia on Twitter" title="Follow Ian Macharia on Twitter"/>](https://twitter.com/karianmash)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="40em" align="center" alt="Follow Ian Macharia on Instagram" title="Follow Ian Macharia on Instagram"/>](https://www.instagram.com/karianmash/)
+[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" height="40em" align="center" alt="Follow Ian Macharia on Telegram" title="Follow Ian Macharia on Telegram"/>](https://t.me/karianmash)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" height="40em" align="center" alt="Open WhatsApp Chat" title="Open WhatsApp Chat"/>](https://wa.me/254798431498)
+[<img src="https://img.freepik.com/free-photo/3d-realistic-isolated-isometric-tiktok-icon_125540-2043.jpg?w=740&t=st=1686504631~exp=1686505231~hmac=68269e6c23c8645edb2cc55439d1acb3c8dcab931225165e1180a5dcdaf1f638" height="40em" align="center" alt="Follow Ian Macharia on TikTok" title="Follow Ian Macharia on TikTok"/>](https://www.tiktok.com/@karianmashke)
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" height="40em" align="center" alt="Follow Ian Macharia on Facebook" title="Follow Ian Macharia on Facebook"/>](https://www.facebook.com/karianmashke/)
+[<img src="https://portfolio-karianmash.vercel.app/assets/img/favicon.png" height="40em" align="center" alt="Visit my website" title="Visit my website"/>](https://portfolio-karianmash.vercel.app/)
+
 
 ## 🔧 Technologies & Tools
 
