@@ -5,7 +5,6 @@
 # Jambo, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am Michael Saiba, Computer Science Graduate. Currently working as a Software Developer and Telecomms Expert. I'm from Kenya, living in Nairobi. 
 
-<br/>
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Ian Macharia on LinkedIn" title="Follow Ian Macharia on LinkedIn"/>](https://linkedin.com/in/michaelsaiba/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" height="40em" align="center" alt="Open WhatsApp Chat" title="Open WhatsApp Chat"/>](https://wa.me/254716202298)
 
