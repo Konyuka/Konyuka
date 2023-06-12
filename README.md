@@ -49,10 +49,6 @@ I am Michael Saiba, Computer Science Graduate. Currently working as a Software D
 
 ## &#x1f4c8;  📊 GitHub Stats
 
-<a href="https://github.com/Konyuka/Konyuka">
-  <img align="center" width="1200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Konyuka&theme=vue" alt="Saiba's GitHub Stats" />
-</a>
-
 <center>
   <table>
     <thead>
@@ -71,6 +67,10 @@ I am Michael Saiba, Computer Science Graduate. Currently working as a Software D
 </center>
 <br/><br/>
 <hr/>
+<a href="https://github.com/Konyuka/Konyuka">
+  <img align="center" width="1200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Konyuka&theme=vue" alt="Saiba's GitHub Stats" />
+</a>
+
 
 <!-- links to social media icons -->
 
