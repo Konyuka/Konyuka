@@ -47,7 +47,7 @@ I am Michael Saiba, Computer Science Graduate. Currently working as a Software D
 ![](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <center>
   <table>
@@ -82,8 +82,8 @@ I am Michael Saiba, Computer Science Graduate. Currently working as a Software D
     </thead>
     <tbody>
     <tr>
-        <td valign="top"><img width="1200px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=karianmash&theme=gotham&layout=compact&hide_border=true"/></td>
-        <td valign="top"><img src="https://profile-counter.glitch.me/karianmash/count.svg" /></td>      
+        <td valign="top"><img width="1200px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Konyuka&theme=gotham&layout=compact&hide_border=true"/></td>
+        <td valign="top"><img src="https://profile-counter.glitch.me/Konyuka/count.svg" /></td>      
     </tr>
     </tbody>
   </table>
