@@ -47,32 +47,32 @@ I am Michael Saiba, Computer Science Graduate. Currently working as a Software D
 ![](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 
-
-
-## &#x270d; Business Projects
-
-Tenderprenuership [biddersportal.com](https://www.biddersportal.com/).
-
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8;  📊 GitHub Stats
 
 <a href="https://github.com/Konyuka/Konyuka">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Konyuka&theme=vue" alt="Saiba's GitHub Stats" />
 </a>
-<a href="https://github.com/Konyuka/Konyuka">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Konyuka&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Saiba's GitHub Stats" />
-</a>
 
-<a href="https://github.com/Konyuka/Konyuka">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konyuka" alt="Saiba's GitHub Stats" />
-</a>
+## Streaks && Stats
 
-<a href="https://github.com/Konyuka/SHOPNOW">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Konyuka&repo=SHOPNOW&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/Konyuka/money-moves">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Konyuka&repo=money-moves&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<center>
+  <table>
+    <thead>
+      <tr>
+        <th>Streaks</th>
+        <th>Stats</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td valign="top"><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Konyuka&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></td>
+        <td valign="top"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=Konyuka&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&custom_title=My%20Github%20Stats" /></td>
+    </tr>
+    </tbody>
+  </table>
+</center>
+<br/><br/>
+<hr/>
 
 <!-- links to social media icons -->
 
