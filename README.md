@@ -56,7 +56,7 @@ I am Michael Saiba, Computer Science Graduate. Currently working as a Software D
 
 ## 📊 GitHub Statistics
 <div align="center">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKonyuka%2Konyuka&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" />
 </div>
 <br>
 
