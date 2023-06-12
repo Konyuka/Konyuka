@@ -82,7 +82,7 @@ I am Michael Saiba, Computer Science Graduate. Currently working as a Software D
     </thead>
     <tbody>
     <tr>
-        <td valign="top"><img width="1200px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Konyuka&theme=gotham&layout=compact&hide_border=true"/></td>
+        <td valign="top"><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Konyuka&theme=gotham&layout=compact&hide_border=true"/></td>
         <td valign="top"><img src="https://profile-counter.glitch.me/Konyuka/count.svg" /></td>      
     </tr>
     </tbody>
