@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/Anmol-Baranwal">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Experienced+UI+Designer;Expert+Cloud+Engineer;Lets+Build+Something+Creative" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=16a34a&width=440&height=45&lines=Full-stack+Web+Developer;Experienced+UI+Designer;Expert+Cloud+Engineer;Lets+Build+Something+Creative" /></a>
 </p>
 
 [![Header](https://raw.githubusercontent.com/Konyuka/Konyuka/main/banner.jpg "Header")](https://talkduka.co.ke/)
