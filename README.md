@@ -52,6 +52,7 @@
 ![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ## 📊 GitHub Stats <img src='https://user-images.githubusercontent.com/74038190/206662693-4a4f6595-0378-4e2c-b347-561bac728308.gif' width="40">
 <center>
   <table>
@@ -65,8 +66,6 @@
     <tr>
         <td valign="top"><img width="600px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Konyuka&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></td>
         <td valign="top"><img width="600px" src="https://github-readme-stats.vercel.app/api?username=Konyuka&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&custom_title=My%20Github%20Stats" /></td>
-        
-![Snake animation Contribution Graph](https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />        
 
