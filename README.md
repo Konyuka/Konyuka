@@ -53,6 +53,8 @@
 ![](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<figure><embed src="https://wakatime.com/share/@Saiba/ee27fa64-2741-4c9c-9332-bc96c030ac9f.svg"></embed></figure>
+
 ## 📊 GitHub Stats <img src='https://user-images.githubusercontent.com/74038190/206662693-4a4f6595-0378-4e2c-b347-561bac728308.gif' width="40">
 <center>
   <table>
