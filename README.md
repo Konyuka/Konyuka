@@ -55,7 +55,7 @@
 
 <figure><embed src="https://wakatime.com/share/@Saiba/ee27fa64-2741-4c9c-9332-bc96c030ac9f.svg"></embed></figure>
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saiba&layout=default&range=all_time)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saiba&layout=default&range=last_year)
 
 
 ## 📊 GitHub Stats <img src='https://user-images.githubusercontent.com/74038190/206662693-4a4f6595-0378-4e2c-b347-561bac728308.gif' width="40">
