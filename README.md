@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Konyuka/Konyuka/main/banner.jpg" alt="Professional Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGq-BcpJWYrEg/profile-displaybackgroundimage-shrink_350_1400/B4DZgZVgbwHwAY-/0/1752771727549?e=1762992000&v=beta&t=P9yqutRN-I77A4ibZb1nAMoUNe4JBsMP4KuRFnt3bLc" alt="Professional Banner" width="100%" />
 </div>
 
 ---
