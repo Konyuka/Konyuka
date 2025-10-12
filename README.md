@@ -1,96 +1,174 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+<!-- Professional GitHub CV for Michael Saiba -->
 
-<p align="center">
-<a href="https://github.com/Anmol-Baranwal">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=22d3ee&width=440&height=45&lines=Full-stack+Web+Developer;Experienced+UI+Designer;Expert+in+Cloud;Lets+Build+Something+Creative" /></a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=500&size=28&pause=1000&color=22d3ee&width=600&height=60&lines=Michael+Saiba;Full-Stack+Developer;Backend+%26+Frontend+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
+</div>
 
-[![Header](https://raw.githubusercontent.com/Konyuka/Konyuka/main/banner.jpg "Header")](https://talkduka.co.ke/)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Konyuka/Konyuka/main/banner.jpg" alt="Professional Banner" width="100%" />
+</div>
 
-# Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Ian Macharia on LinkedIn" title="Follow Ian Macharia on LinkedIn"/>](https://linkedin.com/in/michaelsaiba/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" height="40em" align="center" alt="Open WhatsApp Chat" title="Open WhatsApp Chat"/>](https://wa.me/254716202298)
+---
 
-## 🔧 Technologies and tools 
-<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="160"> 
+## 👨‍💻 About Me
 
-![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![](https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
-![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
-![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
-![](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
-![](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-![](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<figure><embed src="https://wakatime.com/share/@Saiba/ee27fa64-2741-4c9c-9332-bc96c030ac9f.svg"></embed></figure>
+I'm a **Full-Stack Developer** with expertise in building robust backend systems and intuitive frontend interfaces. With a passion for clean code and scalable architectures, I specialize in creating end-to-end solutions that solve real-world problems.
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saiba&layout=default)
+- 🔭 Currently working on **News Aggregator Backend** and **Frontend Projects**
+- 🌱 Continuously learning **Cloud Technologies** and **Modern Frameworks**
+- 💬 Ask me about **Laravel, Vue.js, API Development, Database Design**
+- 📫 Reach me at: **[LinkedIn](https://linkedin.com/in/michaelsaiba/)** | **[WhatsApp](https://wa.me/254716202298)**
+- ⚡ Fun fact: I love turning complex problems into simple, elegant solutions
 
-## 📊 GitHub Stats <img src='https://user-images.githubusercontent.com/74038190/206662693-4a4f6595-0378-4e2c-b347-561bac728308.gif' width="40">
-<center>
-  <table>
-    <thead>
-      <tr>
-        <th>Streaks</th>
-        <th>Stats</th>
-      </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <td valign="top"><img width="600px" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Konyuka&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></td>
-        <td valign="top"><img width="600px" src="https://github-readme-stats.vercel.app/api?username=Konyuka&theme=github_dark&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&custom_title=My%20Github%20Stats" /></td>
+---
 
-<!-- links to social media icons -->
+## 🚀 Featured Projects
 
-<!-- icons with padding -->
+### 🗞️ [News Aggregator Backend](https://github.com/Konyuka/Backend-Dev-Case-Study-News-Aggregator-Backend-)
+> **Backend Development Showcase**
 
-[1.1]: http://i.imgur.com/tXSoThF.png "twitter icon with padding"
-[2.1]: http://i.imgur.com/0o48UoR.png "github icon with padding"
+A comprehensive news aggregation system demonstrating advanced backend development skills.
 
-<!-- icons without padding -->
+**🔧 Technologies:** Laravel | RESTful APIs | Database Design | Authentication  
+**🎯 Key Features:**
+- Multi-source news aggregation
+- Robust API architecture
+- Advanced filtering and search
+- Secure authentication system
+- Scalable database design
 
-[1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
-[2.2]: http://i.imgur.com/9I6NRUm.png "github icon without padding"
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "LinkedIn icon without padding"
+**📈 Skills Demonstrated:**
+- API Development & Documentation
+- Database Architecture & Optimization
+- Authentication & Authorization
+- Error Handling & Validation
+- Testing & Code Quality
 
-<!-- links to your social media accounts -->
+### 🎨 [Acentria Frontend](https://github.com/Konyuka/acentria2)
+> **Frontend Development Showcase**
 
-[2]: https://github.com/Konyuka
-[3]: https://www.linkedin.com/in/michael-saiba-305a03b0/
+Modern, responsive web application showcasing frontend expertise and UI/UX skills.
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
+**🔧 Technologies:** Vue.js | Nuxt.js | Modern CSS | Responsive Design  
+**🎯 Key Features:**
+- Responsive, mobile-first design
+- Interactive user interfaces
+- Optimized performance
+- Modern development practices
+
+**📈 Skills Demonstrated:**
+- Frontend Framework Mastery
+- Responsive Web Design
+- User Experience Optimization
+- Performance Optimization
+- Modern JavaScript (ES6+)
+
+---
+
+## 💼 Technical Skills
+
+<div align="center">
+
+### 🎯 Core Competencies
+
+| Backend Development | Frontend Development | DevOps & Cloud |
+|:---:|:---:|:---:|
+| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) | ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Nuxt.js](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white) | ![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) |
+
+</div>
+
+### 🛠️ Technology Stack
+
+**Languages & Frameworks:**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Tools & Design:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Konyuka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konyuka&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Konyuka&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎯 Development Approach
+
+```yaml
+Code Philosophy:
+  - Clean Architecture: "Write code that tells a story"
+  - Performance First: "Optimize for speed and efficiency"
+  - Security Minded: "Security is not an afterthought"
+  - Test Driven: "Test early, test often"
+  - Continuous Learning: "Stay curious, stay updated"
+
+Specializations:
+  Backend:
+    - RESTful API Development
+    - Database Design & Optimization
+    - Authentication & Authorization
+    - Microservices Architecture
+  
+  Frontend:
+    - Responsive Web Design
+    - Component-Based Architecture
+    - State Management
+    - Performance Optimization
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michaelsaiba/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254716202298)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Konyuka)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://talkduka.co.ke/)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Konyuka&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  **"Building the future, one line of code at a time"** ✨
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
