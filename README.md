@@ -46,7 +46,7 @@ A comprehensive news aggregation system demonstrating advanced backend developme
 - Error Handling & Validation
 - Testing & Code Quality
 
-### 🎨 [Acentria Frontend](https://github.com/Konyuka/acentria2)
+### 🎨 [UI/UX Skills](https://github.com/Konyuka/acentria2)
 > **Frontend Development Showcase**
 
 Modern, responsive web application showcasing frontend expertise and UI/UX skills.
