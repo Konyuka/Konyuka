@@ -1,9 +1,4 @@
 <!-- Professional GitHub CV for Michael Saiba -->
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=500&size=28&pause=1000&color=22d3ee&width=600&height=60&lines=Michael+Saiba;Full-Stack+Developer;Backend+%26+Frontend+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
-</div>
-
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQE-oNU9m2yr-w/profile-displaybackgroundimage-shrink_350_1400/B4DZ6hllhhKwAU-/0/1780827445590?e=1786579200&v=beta&t=8cFObTGtDOpHmsdCu6BxeGTSy_oMr1GBU6zDfElAKE8" alt="Professional Banner" width="100%" />
 </div>
@@ -16,10 +11,10 @@
 
 I'm a **Full-Stack Developer** with expertise in building robust backend systems and intuitive frontend interfaces. With a passion for clean code & scalable architectures, I specialize in creating end-to-end solutions that solve real-world problems.
 
-- 🔭 Currently working on **News Aggregator Backend** and **Frontend Projects**
-- 🌱 Continuously learning **Cloud Technologies** and **Modern Frameworks**
-- 💬 Ask me about **Laravel, Vue.js, API Development, Database Design**
-- 📫 Reach me at: **[LinkedIn](https://linkedin.com/in/michaelsaiba/)** | **[WhatsApp](https://wa.me/254716202298)**
+- 🔭 Currently working on **Fintech Solutions** and other **Awesome Projects**
+- 🌱 Continuously learning **AI / ML technologies** and **modern ways of doing cool stuff**
+- 💬 Ask me about **Web Development & Solutions Design**
+- 📫 Reach me at: **[LinkedIn](linkedin.com/in/MichaelSaiba)** | **[WhatsApp](https://wa.me/254716202298)**
 - ⚡ Fun fact: I love turning complex problems into simple, elegant solutions
 
 ---
@@ -46,7 +41,7 @@ A comprehensive news aggregation system demonstrating advanced backend developme
 - Error Handling & Validation
 - Testing & Code Quality
 
-### 🎨 [UI/UX Skills](https://github.com/Konyuka/acentria2)
+### 🎨 [UI/UX Skills](http://acentriamulti.vercel.app/)
 > **Frontend Development Showcase**
 
 Modern, responsive web application showcasing frontend expertise and UI/UX skills.
