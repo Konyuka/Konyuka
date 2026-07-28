@@ -1,7 +1,7 @@
 <!-- Professional GitHub CV for Michael Saiba -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=500&size=28&pause=1000&color=22d3ee&width=600&height=60&lines=Michael+Saiba;Full-Stack+Developer;Backend+%26+Frontend+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQE-oNU9m2yr-w/profile-displaybackgroundimage-shrink_350_1400/B4DZ6hllhhKwAU-/0/1780827445590?e=1786579200&v=beta&t=8cFObTGtDOpHmsdCu6BxeGTSy_oMr1GBU6zDfElAKE8" alt="Typing SVG" />
 </div>
 
 <div align="center">
