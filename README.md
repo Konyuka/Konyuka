@@ -15,7 +15,7 @@ I'm a **Full-Stack Developer** with expertise in building robust backend systems
 - 🌱 Continuously learning **AI / ML technologies** and **modern ways of doing cool stuff**
 - 💬 Ask me about **Web Development & Solutions Design**
 - 📫 Reach me at: **[LinkedIn](linkedin.com/in/MichaelSaiba)** | **[WhatsApp](https://wa.me/254716202298)**
-- ⚡ Fun fact: I love turning complex problems into simple, elegant solutions
+- ⚡ Fun fact: I love turning complex problems into simple solutions
 
 ---
 
