@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I'm a **Full-Stack Developer** with expertise in building robust backend systems and intuitive frontend interfaces. With a passion for clean & scalable code architectures, I specialize in creating end-to-end solutions that solve real-world problems.
+I'm a **Full-Stack Developer** with expertise in building robust backend systems & intuitive frontend interfaces. With a passion for clean & scalable code architectures, I specialize in creating end-to-end solutions that solve real-world problems.
 
 - 🔭 Currently working on **Fintech Solutions** and other **Awesome Projects**
 - 🌱 Continuously learning **AI / ML technologies** and **modern ways of doing cool stuff**
